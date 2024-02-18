@@ -1,6 +1,6 @@
 # NestJS 배워보기
 
-노누리님의 (블로그 글)[https://velog.io/@nuri00/Nest.js%EB%A1%9C-CRUD-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0]을 참고해서 nestJS를 공부해서 정리한 내용들입니다.
+daleseo님의 [블로그 글](https://www.daleseo.com/nestjs/)을 참고해서 nestJS를 공부해서 정리한 내용들입니다.
 
 
 
